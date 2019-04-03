@@ -5,3 +5,5 @@ Solutions to the questions in projecteuler.org and other challenges would be upl
 Code is written in python 3 and is specific to each question and not the generic logic, however generic logic can be deduced from the code.
 
 No additional modules are required, if you have python 3 installed you are good to go.
+
+Solutions to the questions present in projecteuler.org would be uploaded as an when time is found to solve and code them.
